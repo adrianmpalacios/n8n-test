@@ -1,0 +1,11 @@
+{
+  "name": "test-driven-development",
+  "displayName": "Test-Driven Development",
+  "description": "TDD-oriented work with comprehensive test coverage",
+  "version": "1.0.0",
+  "author": "Antigravity Awesome Skills",
+  "enabled": true,
+  "icon": "🔄",
+  "category": "development",
+  "keywords": ["tdd", "testing", "development", "test-first"]
+}

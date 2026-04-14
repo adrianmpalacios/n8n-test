@@ -1,0 +1,11 @@
+{
+  "name": "api-design-principles",
+  "displayName": "API Design Principles",
+  "description": "API shape, consistency, and best practices",
+  "version": "1.0.0",
+  "author": "Antigravity Awesome Skills",
+  "enabled": true,
+  "icon": "🔌",
+  "category": "design",
+  "keywords": ["api", "design", "consistency", "rest"]
+}

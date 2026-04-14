@@ -1,0 +1,11 @@
+{
+  "name": "debugging-strategies",
+  "displayName": "Debugging Strategies",
+  "description": "Systematic troubleshooting and debugging methodologies",
+  "version": "1.0.0",
+  "author": "Antigravity Awesome Skills",
+  "enabled": true,
+  "icon": "🔍",
+  "category": "development",
+  "keywords": ["debugging", "troubleshooting", "systematic"]
+}

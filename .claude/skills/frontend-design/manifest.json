@@ -1,0 +1,11 @@
+{
+  "name": "frontend-design",
+  "displayName": "Frontend Design",
+  "description": "UI and interaction quality, accessibility, and best practices",
+  "version": "1.0.0",
+  "author": "Antigravity Awesome Skills",
+  "enabled": true,
+  "icon": "🎨",
+  "category": "design",
+  "keywords": ["frontend", "ui", "ux", "design", "accessibility"]
+}

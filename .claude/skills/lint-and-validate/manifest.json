@@ -1,0 +1,11 @@
+{
+  "name": "lint-and-validate",
+  "displayName": "Lint and Validate",
+  "description": "Lightweight quality checks and code validation",
+  "version": "1.0.0",
+  "author": "Antigravity Awesome Skills",
+  "enabled": true,
+  "icon": "✨",
+  "category": "quality",
+  "keywords": ["lint", "validate", "quality", "checks"]
+}

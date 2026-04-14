@@ -1,0 +1,11 @@
+{
+  "name": "create-pr",
+  "displayName": "Create PR",
+  "description": "Package work into clean pull requests",
+  "version": "1.0.0",
+  "author": "Antigravity Awesome Skills",
+  "enabled": true,
+  "icon": "📦",
+  "category": "collaboration",
+  "keywords": ["pr", "pull-request", "git", "github"]
+}

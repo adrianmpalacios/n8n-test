@@ -1,0 +1,11 @@
+{
+  "name": "security-auditor",
+  "displayName": "Security Auditor",
+  "description": "Security-focused code review and vulnerability assessment",
+  "version": "1.0.0",
+  "author": "Antigravity Awesome Skills",
+  "enabled": true,
+  "icon": "🔒",
+  "category": "security",
+  "keywords": ["security", "audit", "vulnerabilities", "review"]
+}
