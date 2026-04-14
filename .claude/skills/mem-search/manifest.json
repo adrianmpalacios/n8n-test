@@ -1,0 +1,11 @@
+{
+  "name": "mem-search",
+  "displayName": "Memory Search",
+  "description": "Search past work and sessions for relevant context and history",
+  "version": "1.0.0",
+  "author": "Claude-Mem",
+  "enabled": true,
+  "icon": "🔎",
+  "category": "memory",
+  "keywords": ["memory", "search", "context", "history", "semantic-search"]
+}

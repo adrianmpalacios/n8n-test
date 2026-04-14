@@ -1,0 +1,11 @@
+{
+  "name": "make-plan",
+  "displayName": "Make Plan",
+  "description": "Create phased implementation plans with documentation discovery",
+  "version": "1.0.0",
+  "author": "Claude-Mem",
+  "enabled": true,
+  "icon": "📋",
+  "category": "planning",
+  "keywords": ["planning", "phased", "implementation", "documentation"]
+}

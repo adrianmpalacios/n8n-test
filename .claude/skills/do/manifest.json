@@ -1,0 +1,11 @@
+{
+  "name": "do",
+  "displayName": "Execute Plan",
+  "description": "Execute phased plans using subagents and memory context",
+  "version": "1.0.0",
+  "author": "Claude-Mem",
+  "enabled": true,
+  "icon": "⚡",
+  "category": "execution",
+  "keywords": ["execution", "subagents", "planning", "orchestration"]
+}
