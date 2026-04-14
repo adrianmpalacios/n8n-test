@@ -12,5 +12,14 @@
 			"Bash(popd)",
 			"Bash(pushd:*)"
 		]
+	},
+	"extraKnownMarketplaces": {
+		"antigravity-awesome-skills": {
+			"source": {
+				"source": "github",
+				"repo": "sickn33/antigravity-awesome-skills",
+				"ref": "main"
+			}
+		}
 	}
 }
