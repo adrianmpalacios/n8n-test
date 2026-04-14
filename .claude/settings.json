@@ -12,5 +12,20 @@
 			"Bash(popd)",
 			"Bash(pushd:*)"
 		]
+	},
+	"skillOverrides": {
+		"brainstorming": "on",
+		"test-driven-development": "on",
+		"debugging-strategies": "on",
+		"debugging": "on",
+		"testing": "on",
+		"security-auditor": "on",
+		"api-design-principles": "on",
+		"frontend-design": "on",
+		"lint-and-validate": "on",
+		"create-pr": "on",
+		"mem-search": "on",
+		"make-plan": "on",
+		"do": "on"
 	}
 }
